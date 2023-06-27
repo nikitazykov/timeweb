@@ -19,4 +19,4 @@ bash subdom_del.sh testsubdom
 Будет удалён поддомен testsubdom.XXX со всеми DNS записями.
 
 
-<h3 align="right"><b><a  href="https://github.com/nikitazykov">®By nikitazykov</a></b></h3>
+<h3 align="right"><b><a  href="https://github.com/nikitazykov">By nikitazykov</a></b></h3>
